@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mcp-unity": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "H:/AI-Project-Start/projects/91-MoCap-Interactive/tools/mcp-unity/Server~/build/index.js"
+      ],
+      "env": {}
+    }
+  }
+}
